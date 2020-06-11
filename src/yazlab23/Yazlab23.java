@@ -33,7 +33,7 @@ public class Yazlab23 {
 
         graph.addAttribute("ui.stylesheet", "node { size: 50px; fill-color: yellow, orange; fill-mode: gradient-horizontal; }");
 
-        FileReader fileReader = new FileReader("C:\\Users\\RamazanDulek\\Desktop\\NetBeansProjects\\yazlab23\\source.txt");
+        FileReader fileReader = new FileReader("file path");
 
         BufferedReader br = new BufferedReader(fileReader);
 
